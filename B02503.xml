@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true information to the nation, from the people called Quakers. Being a brief account of the proceedings of some of the magistrates in and about this city of London, against the aforesaid people, from the third day of the 5th moneth called July, to the last day of the 6th moneth called August, 1664. Composed and published for satisfaction of those who desire to be informed concerning this matter. By J.C.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02503</idno>
+            <idno type="OCLC"> 11191512</idno>
+            <idno type="STC">Wing C7216</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.20[2]</idno>
+            <idno type="STC">ESTC R29664</idno>
+            <idno type="EEBO-CITATION">99889622</idno>
+            <idno type="PROQUEST">ocm99889622</idno>
+            <idno type="VID">183693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183693)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:5[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true information to the nation, from the people called Quakers. Being a brief account of the proceedings of some of the magistrates in and about this city of London, against the aforesaid people, from the third day of the 5th moneth called July, to the last day of the 6th moneth called August, 1664. Composed and published for satisfaction of those who desire to be informed concerning this matter. By J.C.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to John Crook.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183693:1" rendition="simple:additions"/>
+            <p>A TRUE INFORMATION To the Nation, from the People called QUAKERS. Being a Brief account of the PROCEEDINGS</p>
+            <p>Of ſome of the <hi>Magistrates</hi> in and about this <hi>City</hi> of <hi>LONDON,</hi> Againſt the aforeſaid People, from the third day of the 5th Moneth called <hi>July,</hi> to the laſt day of the 6th Moneth called <hi>Auguſt,</hi> 1664.</p>
+            <p>Compoſed and Publiſhed for Satisfaction of thoſe who deſire to be Informed Concerning this Matter. By <hi>J. C.</hi>
+            </p>
+            <q>
+               <p>And Haman ſaid unto the King, there is a certain people ſcattered a<g ref="char:EOLhyphen"/>broad and diſperſed amongst the people in all the Provinces of thy Kingdom; and their Laws are divers from all people, neither keep they the Kings Laws, therefore it is not for the Kings profit to ſuf<g ref="char:EOLhyphen"/>fer them: If it pleaſe the King, let it be written that they may be deſtroyed, &amp;c.</p> 
+               <bibl>Eſter. 3.8, 9.</bibl>
+            </q>
+            <p>Let all who read conſider what this Counſel brought forth.</p>
+            <p>Printed in the Year 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:183693:2"/>
+            <pb n="1" facs="tcp:183693:2"/>
+            <head>A true Information to the Nation, from the People called Quakers, &amp;c.</head>
+            <p>MAny and great have been the ſufferings and perſecu<g ref="char:EOLhyphen"/>tions that w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the people and ſervants of the Lord call<g ref="char:EOLhyphen"/>ed Quakers, have undergone and ſuſtained ſince we were gathered out of the world to be a peculiar people unto God; and many Laws and unrighteous Decrees have been made and proſecuted againſt us by every power as they have come up one after another, thereby thinking to root us out from being a people unto God in this Nation, or to deſtroy and root out the holy ſeed and righteous plant which the Lord God Almighty hath planted in us and amongſt us; and we have e<g ref="char:EOLhyphen"/>ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utt, for all the Babyloniſh Archers to ſhut at, not only <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his land or our N<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>vity, but alſo in every Region whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord by his power hath brought us to bear witneſs of his <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and powe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and we have been aways lookt upon b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (as the Apoſtles were in their days) and ſo have been ever<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where ſpoken againſt, and Antichriſt in his Membe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s had beſtirred himſelf even where ever we come, to raiſe perfec<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt us, and to ſeek our total ruine and ex<g ref="char:EOLhyphen"/>tirpation i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſible: and thus great oppoſition we have met with on every hand, and theſe things we have ſuſtained not for any evil doing, but only for the exerciſe of our Conſciences in Matters of Worſhip and Faith towards God, but the Lord who firſt ſeparated us from our Mothers womb, and gathered us from amongſt the men of this Generation to be a people to himſelf; he hath been always with us, and in all our ſufferings which we have ſuſtained from the hands of our cruel enemies, he hath given us courage, and boldneſs, and valour, ſo that we have been able to bear all things with patience, and he hath clothed us with the Armour of his own righteouſneſs, and put the ſword of the ſpirit into our hands, with which we have wreſtled with the ſpiritual wickedneſs that has been in the high
+<pb n="2" facs="tcp:183693:3"/>places, and they have not prevailed againſt us, to bring to paſs their ſeveral Decrees and Determinations, but through the power of the Lord we have conquered and overcome, and have ſeen the end of many who have riſen up againſt us: And through all theſe tryals, and ſufferings, and perſecutions, the word of God hath grown and encreaſed, and the bleſſed truth which we profeſs and bear witneſs to, hath greatly flouriſhed, and ſpread forth its ſelf, and many have been and are daily ga<g ref="char:EOLhyphen"/>thered into it, and our number is daily added unto and encrea<g ref="char:EOLhyphen"/>ſed, bleſſed be the Lord Almighty, ſo that we do find (as the Apoſtle did in his day) that our bands and ſufferings ſerve for the futherance of the Goſpel of Chriſt, and for the exaltation of the worthy name of the Lord, which is the main thing we aim at; ſo that what ever become of theſe our earthly Tabenacles, or how ever they may be diſpoſed of; we have our deſire and expectation, in chat the truth proſpereth and flouriſheth: And we do not at all doubt nor queſtion but that as the Lord hath been with us in times paſt unto this day and hath born us up in the midſt of our ſufferings and tryals, which we nave undergone for his name ſakes; and as he hath renowned his worthy name, and ſpread forth his truth thereby, ſo he will be always with us to ſuſtain us, bear us up, and carry us through all ſufferings and tribulations whatſoever, that (for the future) may come upon us for the Goſpels ſake, and that our ſufferings ſhall ſtill (as in times paſt) make for the furtherance of the glorious Goſpel of Chriſt, and for the ſpreading, exaltation, and growing of his bleſſed truth which we profeſs and bear witneſs to: And in the faith of this we are reſolved to reſt in patience, waiting to re<g ref="char:EOLhyphen"/>ceive the end thereof, and we doubt not but there are ſeveral thouſands in this Nation that are like minded with us in this matter.</p>
+            <p>And now it is in my heart (for the Information and Satis<g ref="char:EOLhyphen"/>faction of ſuch who may deſire to be informed concerning the preſent proceedings of the Magiſtrates in and about this City of <hi>London,</hi> againſt us the people of God called Quakers) to give a brief Relation of the Heads of their proceedings, that the un<g ref="char:EOLhyphen"/>righteouſneſs and cruelty thereof may be rightly underſtood.</p>
+            <pb n="3" facs="tcp:183693:3"/>
+            <p>The third day after the late Act came in force (which was made to prevent Seditious Meetings of ſuch, who under colour and pretence of Relgious Worſhip, do in their Meetings Plot and Contrive Inſurrections) Being the firſt day of the Week, and the third day of the 5th Moneth 1664. our friends were peaceably Aſſembled together at their uſual Meeting place at <hi>Horſly Down</hi> in <hi>Southwark,</hi> to wait upon God and to Worſhip him, where a ſervant of the Lord was declaring the truth to the people, at which time there came a ompany of arm'd Souldiers very rudely into the Meeting, and as they paſſed in through the Entry, one of them ſhot of his Muſquet up into the Houſe, and the Bullet went through ſeveral Sealings and came very near a Cradle where a Child uſe to lie: And afterwards they halled friends out of their Meeting, and brought them before three called Juſtices,.<hi>(v z.) John Bromfield, John Lenthall,</hi> and <hi>George Moore,</hi> who proceeded againſt them (according as is provided (in the aforeſaid Act) againſt ſuch who under pretence of Reli<g ref="char:EOLhyphen"/>gious Worſhip do contrive Inſurrections) although its well known to moſt people in this Nation, that we are no ſuch peo<g ref="char:EOLhyphen"/>ple, that in our Meetings uſe ſuch practices, but have oft given a publick teſtimony againſt them ſo becauſe friends could nor for Conſcience ſake pay the ſeveral Fines (which was five pounds a piece) which they unjuſtly impoſed upon them, they were to the number of 7 of them committed to the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hite Lion</hi> priſon in <hi>Southwa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> there to remain without Bail or main prize for the ſpace of three Moneths. And that ſame night after they were brought into the Priſon they were put into the com<g ref="char:EOLhyphen"/>mon Ward amongſt the Felons, who took Money by vio<g ref="char:EOLhyphen"/>lence out of ſome of their Pockets, and kept it from them.</p>
+            <p>Again, on the 10th day of the Moneth aforeſaid, being the firſt day of the Week, the Souldiers, <hi>(viz.)</hi> the Red-coats (Guarded with a party of Horſe) came to the aforeſaid Meeting Houſe at <hi>Horſly Down</hi> where our friends were again peaceably Aſſembled in the fear of the Lord to Worſhip him; And the ſaid Soul<g ref="char:EOLhyphen"/>diers took many of them out of their peaceable Meeting, and being carried unto the Guard at <hi>Marge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Hill,</hi> the aforeſaid Ju<g ref="char:EOLhyphen"/>ſtices (ſo called) came and proceeded to try them as aforeſaid
+<pb n="4" facs="tcp:183693:4"/>by the late Act, but when the Witneſſes came they could not at all prove that they were met under any pretence of Worſhip or Religious Exerciſes, yet notwithſtanding the ſaid Juſtices impoſed Fines on them of five pound a piece. And for refuſing to pay the ſaid Tines, they were committed and ſent to the <hi>White Lion</hi> Priſon aforeſaid, (to the number of 13. of them) there to remaim without Bail or main prize, for the ſpace of three Moneths.</p>
+            <p>And upon the 17th day of the fifth Moneth aforeſaid, accor<g ref="char:EOLhyphen"/>ding to our uſual manner, our friends were peaceably Aſſem<g ref="char:EOLhyphen"/>bled together at our own hired Houſe at <hi>Mile-end-Green,</hi> and in the time of their Meeting, there came ſeveral armed Soul<g ref="char:EOLhyphen"/>diers ruſhing in through the yard, and ſet Guards at the doors that none might paſs out or come in; and after a while a ſer<g ref="char:EOLhyphen"/>vant of the Lord ſtood up to declare the word of the Lord to the people, and as he was ſpeaking and m<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ioning the name of the Lord, there Came in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> and one of them in enmity and con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> name of the Devil; And commanded the Soul <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> down that was ſpeaking, which was acc<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook the reſt of Men-friends to the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them into another room of the ſame <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <hi>Rider</hi> called Juſtices or the Peace, w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o there ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed them of their names, places of their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, &amp;c. and read to them ſome part of the aforeſaid Act made to prevent and ſuppreſs Seditious Conven<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es, in which Inſurrections are plotted and contrived, which Act doth not at all reach us, we being no ſuch people which that Act maketh mention of; yet they proceeded to charge ſeveral Fines upon us (which we refuſing to pay, be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe we were not tranſgreſſours.) They com<g ref="char:EOLhyphen"/>mitted us to Priſon in <hi>Newgate</hi> in <hi>London,</hi> there to remain with<g ref="char:EOLhyphen"/>out Bail or Main prize for the ſpace of three Moneths, which is the utmoſt Penalty for the firſt offence (as they call it) of the late Act aforeſaid.</p>
+            <p>Again, upon th 24th day of the 5th Moneth aforeſaid, our Friends being met together peaceably in the fear of the Lord, to wait upon him, and to Worſhip him at their uſual Meeting
+<pb n="5" facs="tcp:183693:4"/>place near <hi>Wheeler-ſtreet</hi> in <hi>Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle-Fields,</hi> there came one called Captain <hi>Longman,</hi> and with him two Files of Muſquettecrs, and two Conſtables with their guard of Halberds, Javlins, and o-other weapons. And the ſaid <hi>Longman</hi> uſing many evil words to friends led the men one by one, and committed them to the Conſtables and Souldiers with the reſt of their Guard, who brought them to a houſe not far off the Meeting place, and there kept them till two called Juſtices came to them <hi>(viz.)</hi> one <hi>C. Pit<g ref="char:EOLhyphen"/>field</hi> of <hi>Hoggsdowne,</hi> and <hi>Richard Abell,</hi> who examined them of their names and wherefore they met, &amp;c. And then Fined them (to the number of 18.) ſome 5 s. ſome 2 s. ſome 1 s. which for Conſcience ſake they could not pay being no Offenders, and ſo was by the aforeſaid <hi>Pitfield</hi> and <hi>Abell</hi> committed and ſent to <hi>Newgate,</hi> there to remain without Bail or Main prize for the ſpace of ſix days, and with them were committed ten more ta<g ref="char:EOLhyphen"/>ken at the ſame Meeting, whoſe names they knew not; And this is to be obſerved by the Reader, that their committing friends for ſo ſhort a time, is not becauſe of any tenderneſs in the Magiſtrates towards friends, but contrarywiſe, becauſe they may the ſooner get them in Priſon again upon the ſecond and third offences as they call it, in order to the fulfilling of their envious wills, which is to expel us out of the land of our Nati<g ref="char:EOLhyphen"/>vity.</p>
+            <p>Again, upon the 24th of the 5th Moneth aforeſaid, being the firſt day of the Week, according to our uſual manner, and at our uſual Meeting-houſe at <hi>Mile-end-Green</hi> in the Pariſh of <hi>Step<g ref="char:EOLhyphen"/>ney,</hi> our friends were Aſſembled in the fear of the Lord to wait upon him, and to Worſhip him in Spirit and in Truth, and when they were thus Aſſembled, there came a Conſtable with a Com<g ref="char:EOLhyphen"/>pany of Souldiers and Watch-men armed and violently ruſhed into our Meeting, and the Conſtable commanded the doors to be ſhut, and without producing any warrant for what he did, he ordered the ſaid Souldiers and Watch-men every one to lay hold of a man which accordingly they did, and led them forth of the Meeting, and ſo to the Tower, and there kept them a while, and then and there brought them before thoſe called Ju<g ref="char:EOLhyphen"/>ſtices, who demanded their names, places of abode, &amp;c. to which
+<pb n="6" facs="tcp:183693:5"/>anſwer was given, and then becauſe for Conſcience ſake they could not pay the ſeveral Fines unrighteouſly impoſed on them, they were committed and ſent) to <hi>Newgate</hi> Priſon, there to remain without Bail or Main prize for the ſpace of ſix days.</p>
+            <p>Again, upon the 31th day of the 5th Moneth aforeſaid, being the firſt day of the Week, our friends were again Aſſembled in the fear of the Lord to wait upon him, and to Worſhip him in the truth at our uſual Meeting-houſe at <hi>Mile-end-Green,</hi> in the Pariſh of <hi>Stepner,</hi> where <hi>ohn Higgins</hi> was Miniſtring the word of truth to the people, and there came divers Conſtables and other armed men, who violently ruſhed in upon them, and without producing any warrant for what they did they ſaid violent hands on them, and halled them out, and had them to an Alehouſe, where was <hi>William Rider</hi> and <hi>George Marſh</hi> called Juſtices with divers others, and being brought before them they asked their names, &amp;c. to which anſwer was given accor<g ref="char:EOLhyphen"/>ding to freedom, then they impoſed a Fine upon them, ſome five ſhillings, ſome more, ſome leſs, for Meeting together to Worſhip God, which they ſay is an offence of their Law, which for Conſcience, ſake friends could not pay, being indeed no tranſgreſſours of any juſt or righteous Law; whereupon they were committed and ſent to the common Priſon at <hi>Newgate,</hi> there to remain without Bail or Main prize for the ſprce of five days.</p>
+            <p>Again, upon the 7th day of the 6th Moneth being the firſt day of the Week, after our friends were parted from their Meeting place near <hi>Wheeler-ſtreet,</hi> the moſt part of them, only ſome remaining behind were ſeized in the Street and Alley, at the command of one <hi>C. Pitfield</hi> and <hi>T. Swallow</hi> Juſtices, ſo called and were brought to an Alehouſe, and from thence committtd to <hi>Newgate</hi> by the ſaid <hi>Pitfield</hi> and <hi>Swallow,</hi> there to remain without Bail or Main prize for the ſpace of ſix dayes, ſome of them being as they ſaid for the firſt offence, and ſome for the ſecond, and yet they had no witneſs or evidence to prove that they had met together.</p>
+            <p>And upon the 7th day of the 6th Moneth, aforeſaid, friends being again peaceably met, together, not under colour of Reli<g ref="char:EOLhyphen"/>gious
+<pb n="7" facs="tcp:183693:5"/>Exerciſes, to plot or contrive Inſurrections, but really to Worſhip God in ſpirit and in truth at our aforeſaid Meeting<g ref="char:EOLhyphen"/>houſe at <hi>Mile-end-Green,</hi> where there was a friend that was Miniſtring the truth to the people, there came divers Conſtables and other armed men violently in amongſt them, and halled them out before <hi>William Rider</hi> and <hi>Thomas Player</hi> called Juſtices, to the number of 31. and after ſome examinati<g ref="char:EOLhyphen"/>on impoſed ſeveral Fines upon them for their Aſſembling to<g ref="char:EOLhyphen"/>gether as aforeſaid, which being altogether Antichriſtian, they could not for Conſcience ſake pay; whereupon they were committed and ſent to <hi>Newgate,</hi> there to remain without Bail or main prize for the ſpace of four days, ſome being for the firſt offence as they called it, and ſome for the ſecond, and ſeve<g ref="char:EOLhyphen"/>ral of them who did not declare their names they committed to Priſon there to remain till they were delivered by due courſe of Law.</p>
+            <p>Again, on the 14th day of the 6th Moneth aforeſaid, being the firſt day of the Week, our friends were Aſſembled accor<g ref="char:EOLhyphen"/>ding to their wonted manner at their uſual Meeting-place at <hi>Mile-end-Green,</hi> where there was a friend that was Mini<g ref="char:EOLhyphen"/>ſtring the truth to the people, in which time there came divers Conſtables and other armed men, and by force and violence halled them out of their peaceble Meeting, and brought them before the aforeſaid <hi>William Rider</hi> and <hi>George Marſh,</hi> who exami<g ref="char:EOLhyphen"/>ned them whether their coming there were to Worſhip God? to which they could not deny, but innocently confeſs it, and vindicated their right and privilege ſo to do, being peaceable ſubjects of this Nation, and in no wiſe diſturbers of the peace, for which they were declared by the ſaid <hi>Marſh</hi> and <hi>Rider</hi> to be convicted as tranſgreſſours of the late Law made to ſuppreſs ſe<g ref="char:EOLhyphen"/>ditious Conventicles, ſome of the firſt offence, ſome of the ſe<g ref="char:EOLhyphen"/>cond as they call it, and ſome others that were for the third, and for refuſing to pay the ſeveral Fines then impoſed upon them for their thus Meeting to Worſhip God, they were committed and ſent to the common Goal in <hi>Newgate</hi> there to remain without Bail or main prize for the ſpace of two days, ſuch as were for the firſt and ſecond account; and ſuch as were on the third account to be kept till the next Goal-delivery, on order to their tryal for Tranſportation.</p>
+            <pb n="8" facs="tcp:183693:6"/>
+            <p>And upon the 14th day of the 6th Moneth aforeſaid, being the firſt day of the Week, we being peaceably met together at our uſual meeting-place at the <hi>Bull</hi> and <hi>Mouth</hi> in <hi>London,</hi> the Sheriffs with a certain number of Military officers, and with guards conſiſting of the Mayors-officers, Sheriffs-men, City Mar<g ref="char:EOLhyphen"/>ſhals and their men, with the Conſtables Guards, came and en<g ref="char:EOLhyphen"/>tred our meeting, and in a furious manner preſt towards the place where a friend was declaring the way of truth and ſalvati<g ref="char:EOLhyphen"/>on unto the people, and commanded him to come down, which he being not free to do at their command, two of the officers ſtept upon a form near unto him, and in a great fury drew their Swords, and one of them with his hanger ſmote him, and others of them laid on ſeveral friends with their ſwords and ſtaves till one of them broke his ſword, and ſo when they had pulled out the friend that was ſpeaking, they came in more of them and halled out friends both men and women, and brought them one, and two, and three, and four at a time to the number of a<g ref="char:EOLhyphen"/>bout 200 in all to <hi>Guild-Hall,</hi> and ſeveral friends they took in the ſtreets that only ſtood to behold the cruelty of their proceed<g ref="char:EOLhyphen"/>ings towards us, and brought them alſo to the ſame place, where they were kept cloſe priſoners till about mid-night, and ſo that their works of darkneſs might not arpear to the publick view of the people, they ordered the Marſhal of the City with a very great guard of halberd-men to conduct us to <hi>Newgate</hi> about that time of night, which with Torches lighted was accordingly done, though no <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttimus</hi> at all was ſent with us, and the next day about <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o of us were called for again to <hi>Guila-Hall,</hi> where they were brought before the Mayor, and being examined con<g ref="char:EOLhyphen"/>cerning their meeting contrary to the late Act, ſeveral Fines were impoſed on them, which becauſe for Conſcience ſake they could not pay, being no tranſgreſſours of any juſt Law, they were recommitted, one for three moneths, and another for one monech, and others for 14 days, though that which they called their offences were all alike<g ref="char:punc">▪</g> And on the 14 day following they called for about 12 more of us, that were taken the firſt day of the Week aforeſaid, to the <hi>Guild-Hall</hi> before the Mayor and <hi>Thomas <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ams</hi> Alderman, where we were examined apart con<g ref="char:EOLhyphen"/>cerning our meeting contrary to the late Act as they ſaid, and when they had impoſed ſeveral Fines on us, and we refuſed to
+<pb n="9" facs="tcp:183693:6"/>pay as tranſgreſſour, we were recommitted to <hi>Newgate,</hi> there to remain for the ſpace of 14 days, and the 6th day of the ſame week about 60 more of the ſame Company that were taken at the <hi>Bull</hi> and <hi>Mouth</hi> the firſt day of the week aforeſaid, were call<g ref="char:EOLhyphen"/>ed for to the <hi>Old Bail,</hi> where the Mayor was with ſome others, who examined them concerning their meeting as aforeſaid, which being done and the ſeveral Fines impoſed on them, refu<g ref="char:EOLhyphen"/>ſed to be paid, they were recommitted to the priſon at <hi>New<g ref="char:EOLhyphen"/>gate,</hi> there to remain for the ſpace of 9 days without Bail or main prize, ſo the illegalneſs of their proceedings againſt us may hereby be underſtood, for they kept many or us<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full five days without any warrant, or being brought before any Magiſtrate, which is contrary to any known Law of <hi>England.</hi>
+            </p>
+            <p>Alſo it is obſervable, that the witneſſes that came in againſt us when we were examined at the <hi>Guild-Hall,</hi> were ſuch that made no Conſcience of their words, for when friends that were taken in the ſtreet were brought before the Mayor and examined, theſe witneſſes would teſtifie chat they took them in the meeting.</p>
+            <p>Moreover on the 16th day of the moneth aforeſaid, being the 3d day of the week, when we were met together in our priſon room to wait upon God and worſhip him, one of the Keepers men came in amongſt us, and fetcht him away that was ſpeak<g ref="char:EOLhyphen"/>ing, and put him in the hole where murtherers uſe to be put af<g ref="char:EOLhyphen"/>ter ſentence of death, and there kept a certain time. And on the 18th day of the moneth aforeſaid, being the 5th day of the week, as we were again aſſembled in our priſon room in the ſame manner and to the ſame end aforeſaid, the Keepers man came in amongſt us again, and becauſe he could not come at the friend that was ſpeaking by reaſon of the throng of friends that ſtood about him, he fell laying on both men and women with a great ſtaff, and ſome of the Felons that were with him did alſo beat friends with their fiſts, and one of the women thieves came with a knife, ſwearing ſhe would ſtab friends, and did attempt ſo to do though prevented, yet after a little ſeaſon that tumult was qualified, and the friend that was ſpeaking amongſt us was taken away and put into another part of the priſon.</p>
+            <p>Again, upon the 21th day of the 6th moneth aforeſaid friends being pea eably aſſembled in the fear of the Lord to wait upon
+<pb n="10" facs="tcp:183693:7"/>him and woſhip him in their meeting-houſe at <hi>Mile-end-Greer,</hi> there came ſeveral Conſtables with their guard, behaving them<g ref="char:EOLhyphen"/>ſelves very rudely and uncivilly towards friends, but after a while came two called Juſtices, <hi>Tho. Player</hi> and <hi>Will. Rider,</hi> and one of them commanded that the friend who was declaring the truth to the people ſhould be fetcht out, which was haſtily done, and the reſt after him were fetcht out one by one, and there exa<g ref="char:EOLhyphen"/>mined by the ſaid <hi>Player</hi> and <hi>Rider</hi> concerning the cauſe of their being at that place, to which they anſwered, that their coming was to worſhip the Lord; then they asked friends if they would pay half a Crown a piece, to which they anſwered, nay, they could not make themſelves tranſgreſſours, when they knew they were innocent; whereupon they were committed eleven of them to the common Goal at <hi>Newgate,</hi> there to remain with<g ref="char:EOLhyphen"/>out Bail or main prize for the ſpace of two days.</p>
+            <p>Moreover, upon the 21th day of the 6th moneth aforeſaid, friends (as they themſelves had declared) being conſtrained in their ſpirits to continue the aſſembling of themſelves together at their uſual meeting-place at the <hi>Peal</hi> in <hi>Johns ſtreet,</hi> there to wait upon the Lord and to worſhip him, there came amongſt them one <hi>Thomas Steaks,</hi> and one <hi>Rich. Thorndell,</hi> and one <hi>Mat<g ref="char:EOLhyphen"/>thews,</hi> with many other Conſtables and others to aſſiſt them, and ſeized on the moſt of men-friends, and led them by the arm out of the meeting, and from thence to the Seſſions-houſe called <hi>Hickſes-hall,</hi> and brought them up into an upper chamber where there was three called Juſtices or the peace, <hi>viz. Reg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nald Foſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, John Smith, Tho. Lucy,</hi> who examined every particular of them concerning the end of their meeting together, to which anſwer was given, that the intent of their meeting was to wait upon the Lord, ſo <hi>that</hi> they made their crime, and for ſo doing they Fined them five ſhillings a piece, and becauſe for Conſcience ſake they could not pay it being no tranſgreſſours of any righteous Law, they were committed and ſent to <hi>Newgate</hi> to the number of a<g ref="char:EOLhyphen"/>bout 28 there to remain without Bail or main prize for the ſpace of 4 days, and then to be diſcharged.</p>
+            <p>Again, upon the 21th of the 6th moneth aforeſaid, friends be<g ref="char:EOLhyphen"/>ing again peaceably aſſembled at the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull</hi> and <hi>Mourn</hi> to worſhip God in ſpirit and truth, the Marſhal of the City with Conſta<g ref="char:EOLhyphen"/>bles and ſeveral military officers, and other aſſiſtants came with
+<pb n="11" facs="tcp:183693:7"/>ſwords and halberds, and entred our meeting-houſe, and violent<g ref="char:EOLhyphen"/>ly halled out moſt or all that were there preſent aſſembled, and left them in the ſtreet, yet the doors being left open, and way being made for them, they returned into their meeting-houſe again, and a friend ſtanding up to declare the truth to the peo<g ref="char:EOLhyphen"/>ple, was after a little time pulled down by one <hi>Clarke,</hi> Captain of a Train-band, and others with halberds, and carried away to the <hi>Guild-Hall,</hi> where ſeveral others, were ſent alſo, and whilſt they were kept there, the Mayor of the City, with the Sheriffs and <hi>Richard Brown,</hi> with ſeveral officers of the City both civil and military came to the <hi>Bull</hi> and <hi>Mouth,</hi> and with carnal wea<g ref="char:EOLhyphen"/>pons entred the meeting the ſecond time, and brought out friends before the Mayor and <hi>Richard Brown,</hi> who is a man ſo far from keeping the peace, that he is uſually obſerved to be the firſt that breaks it, who then and there kicked ſome friends till thereby he drew blood from them, and pulled the hair off the heads of ſeveral men, and pinched ſeveral of the womens arms till they were black, by which all people may eaſily judge whe<g ref="char:EOLhyphen"/>ther this man be fitly qualified to ſit in the place of a Magiſtrate, or whether he be not more fit to have the Law executed, upon him for thoſe inhumane groſs abuſes offered by him to our friends, but the Mayor was more moderate and offered no ſuch kind of abuſes, yet proceeded to the examination of friends concerning their names, places of abode, &amp;c which being done, they impoſed ſeveral Fines on them that told their names, which was to the number of about 159 which Fines they could not for Conſcience ſake pay, whereupon they were committed to <hi>New<g ref="char:EOLhyphen"/>gate</hi> priſon, there to remain without Bail or main prize for the ſpace of 4 days, and by reaſon of the great number that were in the priſon before, there was not houſe room allowed them to lie down one by another, nor yet ſcarcely to ſit, by reaſon whereof many were conſtrained to walk upon the leads for ſe<g ref="char:EOLhyphen"/>veral nights, and as for thoſe who did not tell their names which were in number about 27 they were committed to <hi>Briae<g ref="char:EOLhyphen"/>well,</hi> note here that though their <hi>Mittimus</hi> was made for 9 days, yet for diſpatch of their intended work againſt us, they altered the <hi>Mittimus</hi> and ordered them to be diſcharged at 4 days end.</p>
+            <p>Again, on the 28 of the 6<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h moneth aforeſaid, friends being peaceably met together at their meeting-place near <hi>Wheeler-ſtreet</hi>
+               <pb n="12" facs="tcp:183693:8"/>to wait upon the Lord and to worſhip him, there came a company of ſouldiers, and by the command of <hi>C. Pitfield</hi> and <hi>T. Swallow</hi> (called Juſtices, who were then preſent) took friends out of the meeting, and guarded them to an Alehouſe, where they impoſed ſeveral Fines upon them for their aſſembling to wor<g ref="char:EOLhyphen"/>ſhip God, and friends refuſing to pay their ſeveral Fines impo<g ref="char:EOLhyphen"/>ſed, were committed and ſent to the common Goal of <hi>Newgate,</hi> to the number of 33 there to remain without Bail or main prize for the ſpace of ten days, only ſome of them to be kept till the next Goal-delivery to be proceeded againſt in order to tryal for Tranſportation.</p>
+            <p>And on the ſame day aforeſaid, at <hi>Mile-and green</hi> according to our wonted manner, friends were again aſſembled peaceably to wait upon the Lord, in which time there came a company of halberd men and kept guard over them, till 3 called Juſtices, <hi>viz. W. Rider, T. Player,</hi> and <hi>G. Marſh,</hi> with a conſiderable party of ſouldiers came alſo, who fetcht friends out of their meeting, both men and women, in all between 30 &amp; 40. And the ſaid <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der</hi> with his company examined friends according to their uſual manner, and commited them to <hi>Newgate,</hi> ſome on the firſt and ſome on the ſecond offence as they call it, there to remain with<g ref="char:EOLhyphen"/>out Bail or main prize for the ſpace of 24 hours, and ſome of them being on the 3 account, are to be proceeded againſt for Tranſportation, whoſe tryal we expect this preſent Seſſions, but 4 of the aforeſad company being young Maids, they ſent to <hi>Bridewell,</hi> two of which were put in the ſtocks.</p>
+            <p>Moreover, it is obſervable that ſix of our friends being paſ<g ref="char:EOLhyphen"/>ſing through an alley between <hi>John ſtreet</hi> and <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anſes</hi> the ſame day aforeſaid were taken by Conſtables, and carried to <hi>Hickses-hall</hi> before 3 called Juſtices, who proceeded againſt them as uſually they do when they take us out of our meetings, and ſent them to <hi>Newgate,</hi> there to remain without Bail or main prize for the ſpace of 3 days, only one of them to be kept on the 3d offence (as they call it) till the next Goal-delivery, in order to Tranſpor<g ref="char:EOLhyphen"/>tation.</p>
+            <p>Again, upon the 28 aforeſaid, our friends being peaceably aſ<g ref="char:EOLhyphen"/>ſembled at the <hi>Bul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Mouth</hi> according to their wonted man<g ref="char:EOLhyphen"/>ner to worſhip God, there came <hi>Ant<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eman</hi> Mayor, and our old adverſary <hi>R. Brown,</hi> who hath not yet anſwered for the bloud
+<pb n="13" facs="tcp:183693:8"/>of many that was not long ſince even ſtifled up in noyſome holes and priſons through his occaſion) and with their uſual guards of both civil and military officers, and placed themſelves near the door, and cauſed friends to be brought out before them, where they examined them ac<g ref="char:EOLhyphen"/>cording to their uſual manner, and for refuſing to pay the ſeveral fines by the ſaid Magiſtrates (unrighteouſly) impoſed on them, they were committed to the number of 60 at leaſt and ſent to <hi>Newgate</hi> (a back-way and not through the ſtreets that their works of darkneſs might the leſs appear to the view of the world) there to be kept without bail or main prize for the ſpace of 4 days, ſuch of them as are for the 1 and 2 offence (as they call it) others of them that are on the 3 account, the Keeper of the priſon into whoſe cuſtody they are uſually ſent, receives orders from the Magiſtrates to obſerve their names, and to ſecure them till Goal delivery, and as the Keeper ſaith, he hath now in his cu<g ref="char:EOLhyphen"/>ſtody about 19 which are (as he ſaith) to come to their tryal (for their 3 offence ſo called) this preſent Seſſions; And this is ſtill obſervable, that <hi>R. Brown</hi> according to his wonted manner did (the day aboveſaid) tear the hair of friends heads with his own hands, and pinch the women, and abuſe many in a very inhumane and ſad manner.</p>
+            <p>And this, is very obſervable, that becauſe their works of darkneſs (which they may well be aſhamed of) ſhould not appear or be much taken notice of; their uſual manner is (after the time is expired that friends are committed for) to put them out of priſon in the night ſeaſon</p>
+            <p>So here all may ſee and take notice how vigilant ſome of the Magi<g ref="char:EOLhyphen"/>ſtrates of this City of <hi>Lond.</hi> are in ſuppreſſing the meetings and aſſem<g ref="char:EOLhyphen"/>blies of the people of God, whoſe gathering and aſſembling is for no other end, but only to wait upon the Lord, and to worſhip him in ſpi<g ref="char:EOLhyphen"/>rit and truth according to the practice of the primitive Chriſtians, and becauſe we know, and are perſwaded in our Conſciences we cannot forſake this godly exerciſe, whatſoever we ſuffer for the continuance thereof: And we may appeal unto all ſober people through this Nati<g ref="char:EOLhyphen"/>on (and to the witneſs of God in the hearts of our perſecutors) who have known our manner of life and converſation, whether or no we have deſerved theſe things at the hands of theſe men, or whether they are righteouſly or unrighteouſly inflicted upon us; And although they may ſay they have a Law for what they do, &amp;c. And according to their Law they ought to do it, and if they ſhould neglect the put<g ref="char:EOLhyphen"/>ting this Law in execution, they ſhall not be accounted the Kings friends, &amp;c. I anſwer, ſo ſaid the Jews concerning Chriſt; We have a
+<pb n="14" facs="tcp:183693:9"/>Law, and by our Law he ought to die; and further ſaid unto <hi>Pilate,</hi> if thou let this man alone thou art nof <hi>Caeſars</hi> friend, yet their ſaying they had a Law, &amp;c. did not make their proceedings juſt, no more this Law (by which theſe Magiſtrates of <hi>London</hi> doth now proceed a<g ref="char:EOLhyphen"/>gainſt us to priſon us in order to baniſhment, and ſo to death (if we re<g ref="char:EOLhyphen"/>turn again) bear them out in what they do, or render their proceed<g ref="char:EOLhyphen"/>dings juſt in Gods account in the day when the Lord ſhall ariſe to make Inquiſition for the bloud of his Saints and ſervants, and to ren<g ref="char:EOLhyphen"/>der to every one a juſt reward according to their doings; neither in that day can the Law-makers bear out the Executioners of it, but eve<g ref="char:EOLhyphen"/>ry one muſt give an account to God for his own doings, therefore it concerns the Executioners of this Law (who have taken in hand this unrighteous (as it will prove) and cruel work) to conſider what they are doing, and whether they can ſtand juſtified in the ſight of God in what they do: For certainly (whether you will believe or no) the Lord is with us and will take our part, and will plead, our cauſe, and what is done unto us, he takes as done unto himſelf; And they that ſtrive to ſuppreſs us do not ſtrive againſt us only, but againſt the Lord alſo who is (our ſtrength) and in the end he will ſurely be too hard for them, and will grind them to powder and bruiſe them as in a morter, except they ſpeedily repent.</p>
+            <p>And furthermore, it may be ſeen how the enmity of the devourer doth appear in theſe proceedings, who the ſooner to haſten this work of baniſhment (and death upon retu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n) doth, uſually commit friends for a very few days; nay, ſometime but for 24 hours that ſo they may have them ſoon again upon another account. Oh ſad times indeed, when (according to appearance), the greateſt favour that can be ſhewn us (if they proceed, againſt us at all by the late Law) is to keep us in priſon as long as they can; when in the mean time Drunkards and Stage players, and (I may ſay) all kind of Vice tolerated, and no no<g ref="char:EOLhyphen"/>tice taken of it by theſe men who are ſo zealouſly bent againſt an in<g ref="char:EOLhyphen"/>nocent and harmleſs people, that cannot run with them into the ſame exceſs of Riot.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
